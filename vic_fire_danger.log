@@ -1,0 +1,48 @@
+07:44:04,72 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:44:04,255 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7663
+07:44:04,261 root ERROR An uncaught exception occurred:
+07:44:04,261 root ERROR Type: <class 'AttributeError'>
+07:44:04,261 root ERROR Value: 'NoneType' object has no attribute 'text'
+07:44:04,274 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 44, in <module>\n    main()\n'
+07:44:04,274 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 39, in main\n    new_forecasts = fc.get_forecasts(items[0])\n'
+07:44:04,275 root ERROR '  File "c:\\Code\\vic_fire_danger\\parse_feed.py", line 93, in get_forecasts\n    return dict(self.parse_item(i, item) for i, item in enumerate(items))\n'
+07:44:04,275 root ERROR '  File "c:\\Code\\vic_fire_danger\\parse_feed.py", line 93, in <genexpr>\n    return dict(self.parse_item(i, item) for i, item in enumerate(items))\n'
+07:44:04,275 root ERROR '  File "c:\\Code\\vic_fire_danger\\parse_feed.py", line 64, in parse_item\n    title = item.find(\'title\').text\n'
+14:41:13,370 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:41:13,652 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7663
+19:24:48,18 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:24:48,557 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7712
+19:54:46,731 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:54:47,337 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7712
+20:24:46,631 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+20:24:46,796 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7712
+20:54:46,710 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+20:54:46,944 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7712
+21:13:43,884 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+21:13:44,433 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7712
+21:24:46,600 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+21:24:46,766 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7712
+22:34:32,529 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+22:34:32,693 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7712
+02:34:33,30 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+02:34:34,241 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7633
+02:43:44,38 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+02:43:44,290 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7633
+03:16:56,91 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+03:16:56,308 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7633
+03:24:46,604 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+03:24:46,782 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7633
+03:57:34,687 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+03:57:34,897 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7633
+04:38:04,192 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+04:38:04,350 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7633
+04:43:44,186 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+04:43:44,478 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7633
+06:04:07,669 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:04:10,342 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7641
+06:04:26,80 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:04:26,287 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7641
+06:13:44,357 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:13:44,727 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7641
+06:24:46,776 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:24:47,224 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7641
