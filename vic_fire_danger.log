@@ -46,3 +46,43 @@
 06:13:44,727 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7641
 06:24:46,776 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
 06:24:47,224 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7641
+06:34:25,645 root ERROR An uncaught exception occurred:
+06:34:25,645 root ERROR Type: <class 'AttributeError'>
+06:34:25,646 root ERROR Value: type object 'ForecastConfig' has no attribute 'RSS_FEED'
+06:34:25,647 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 44, in <module>\n    main()\n'
+06:34:25,647 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 38, in main\n    pub_date, items = fc.get_latest_data()\n'
+06:34:25,647 root ERROR '  File "c:\\Code\\vic_fire_danger\\parse_feed.py", line 49, in get_latest_data\n    rss_feed_request = requests.get(self.config.RSS_FEED)\n'
+06:43:44,62 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:43:44,255 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "GET /cfa/rssfeed/central-firedistrict_rss.xml HTTP/1.1" 200 7641
+06:54:46,970 root ERROR An uncaught exception occurred:
+06:54:46,970 root ERROR Type: <class 'AttributeError'>
+06:54:46,970 root ERROR Value: 'ForecastClient' object has no attribute 'get_latest_data'
+06:54:46,971 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 44, in <module>\n    main()\n'
+06:54:46,971 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 38, in main\n    pub_date, items = fc.get_latest_data()\n'
+07:04:25,315 root ERROR An uncaught exception occurred:
+07:04:25,315 root ERROR Type: <class 'NameError'>
+07:04:25,315 root ERROR Value: name 'requests' is not defined
+07:04:25,316 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 99, in <module>\n    main()\n'
+07:04:25,316 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 91, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+07:13:44,968 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:13:45,353 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+07:13:45,370 root ERROR An uncaught exception occurred:
+07:13:45,370 root ERROR Type: <class 'FileNotFoundError'>
+07:13:45,370 root ERROR Value: [Errno 2] No such file or directory: 'vic_fire_danger/forecast_history.api.json'
+07:13:45,371 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 104, in <module>\n    main()\n'
+07:13:45,371 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 99, in main\n    old_forecasts = json.load(open(\'vic_fire_danger/forecast_history.api.json\'))\n'
+07:24:46,753 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:24:47,36 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+07:24:47,61 root ERROR An uncaught exception occurred:
+07:24:47,62 root ERROR Type: <class 'FileNotFoundError'>
+07:24:47,62 root ERROR Value: [Errno 2] No such file or directory: 'vic_fire_danger/forecast_history.api.json'
+07:24:47,63 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 104, in <module>\n    main()\n'
+07:24:47,63 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 99, in main\n    old_forecasts = json.load(open(\'vic_fire_danger/forecast_history.api.json\'))\n'
+07:54:46,831 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:54:47,37 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+07:54:47,51 root ERROR An uncaught exception occurred:
+07:54:47,51 root ERROR Type: <class 'KeyError'>
+07:54:47,52 root ERROR Value: 'MODERATE'
+07:54:47,54 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+07:54:47,54 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+07:54:47,55 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
