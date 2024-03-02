@@ -91,22 +91,23 @@ def main():
     }
 
     response = requests.post('https://www.cfa.vic.gov.au/api/cfa/location/view/', cookies=cookies, headers=headers, json=json_data)
+    print(json.dumps(response.json()['FireBansAndRatingsDistrictWrapper'], indent=4))
 
     new_forecasts = {}
 
     STATUS_MAP = {
         'status': {'N': 0, 'Y': 1},
-        'rating': {'NO RATING': 0, 'HIGH': 1, 'EXTREME': 2, 'CATASTROPHIC': 3}
+        'rating': {'NO RATING': 0, '': 0,'MODERATE': 1, 'HIGH': 2, 'EXTREME': 3, 'CATASTROPHIC': 4}
     }
 
     new_forecasts = [
         {'date': f['IssueDate'], 'issued_at': f['IssueAt'], 'status': STATUS_MAP['status'][f['Status']], 'rating': STATUS_MAP['rating'][f['DistrictRating']]}
-        for f in response.json().get('FireBansAndRatingsDistrictWrapper',{})
+        for f in response.json()['FireBansAndRatingsDistrictWrapper']
     ]
 
-    old_forecasts = json.load(open('vic_fire_danger/forecast_history.api.json'))
+    old_forecasts = json.load(open('forecast_history.json'))
     old_forecasts.extend(new_forecasts)
-    json.dump(list(set(old_forecasts)), open('vic_fire_danger/forecast_history.json', 'w'), indent=4)
+    json.dump([dict(d) for d in set(frozenset(f.items()) for f in old_forecasts)], open('forecast_history.json', 'w'), indent=4)
 
     # if content:
     #     outlook = win32.Dispatch('outlook.application')

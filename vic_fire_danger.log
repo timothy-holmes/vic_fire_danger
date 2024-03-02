@@ -86,3 +86,1194 @@
 07:54:47,54 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
 07:54:47,54 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
 07:54:47,55 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+08:04:25,590 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:04:25,956 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:04:25,968 root ERROR An uncaught exception occurred:
+08:04:25,969 root ERROR Type: <class 'KeyError'>
+08:04:25,969 root ERROR Value: 'MODERATE'
+08:04:25,972 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+08:04:25,973 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+08:04:25,973 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+08:13:44,19 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:13:44,260 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:13:44,300 root ERROR An uncaught exception occurred:
+08:13:44,300 root ERROR Type: <class 'KeyError'>
+08:13:44,300 root ERROR Value: 'MODERATE'
+08:13:44,301 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+08:13:44,301 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+08:13:44,301 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+08:24:46,699 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:24:47,50 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:24:47,70 root ERROR An uncaught exception occurred:
+08:24:47,70 root ERROR Type: <class 'KeyError'>
+08:24:47,70 root ERROR Value: 'MODERATE'
+08:24:47,71 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+08:24:47,71 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+08:24:47,71 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+08:34:25,594 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:34:25,984 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:34:26,14 root ERROR An uncaught exception occurred:
+08:34:26,14 root ERROR Type: <class 'KeyError'>
+08:34:26,14 root ERROR Value: 'MODERATE'
+08:34:26,14 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+08:34:26,14 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+08:34:26,14 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+08:43:44,182 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:43:44,499 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:43:44,518 root ERROR An uncaught exception occurred:
+08:43:44,518 root ERROR Type: <class 'KeyError'>
+08:43:44,518 root ERROR Value: 'MODERATE'
+08:43:44,518 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+08:43:44,518 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+08:43:44,518 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+08:54:46,606 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:54:46,848 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:54:46,869 root ERROR An uncaught exception occurred:
+08:54:46,869 root ERROR Type: <class 'KeyError'>
+08:54:46,869 root ERROR Value: 'MODERATE'
+08:54:46,869 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+08:54:46,869 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+08:54:46,869 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+09:04:25,588 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:04:26,172 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:04:26,198 root ERROR An uncaught exception occurred:
+09:04:26,199 root ERROR Type: <class 'KeyError'>
+09:04:26,199 root ERROR Value: 'MODERATE'
+09:04:26,200 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+09:04:26,200 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+09:04:26,200 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+09:13:44,180 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:13:44,425 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:13:44,445 root ERROR An uncaught exception occurred:
+09:13:44,446 root ERROR Type: <class 'KeyError'>
+09:13:44,446 root ERROR Value: 'MODERATE'
+09:13:44,448 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+09:13:44,448 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+09:13:44,448 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+09:24:46,680 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:24:46,957 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:24:46,972 root ERROR An uncaught exception occurred:
+09:24:46,972 root ERROR Type: <class 'KeyError'>
+09:24:46,972 root ERROR Value: 'MODERATE'
+09:24:46,972 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+09:24:46,972 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+09:24:46,972 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+09:34:25,642 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:34:26,2 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:34:26,24 root ERROR An uncaught exception occurred:
+09:34:26,24 root ERROR Type: <class 'KeyError'>
+09:34:26,24 root ERROR Value: 'MODERATE'
+09:34:26,24 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+09:34:26,24 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+09:34:26,24 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+09:43:44,116 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:43:44,518 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:43:44,536 root ERROR An uncaught exception occurred:
+09:43:44,536 root ERROR Type: <class 'KeyError'>
+09:43:44,536 root ERROR Value: 'MODERATE'
+09:43:44,536 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+09:43:44,536 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+09:43:44,536 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+09:54:46,635 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:54:47,8 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:54:47,15 root ERROR An uncaught exception occurred:
+09:54:47,15 root ERROR Type: <class 'KeyError'>
+09:54:47,15 root ERROR Value: 'MODERATE'
+09:54:47,15 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+09:54:47,15 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+09:54:47,15 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+10:04:25,540 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:04:25,886 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:04:25,933 root ERROR An uncaught exception occurred:
+10:04:25,933 root ERROR Type: <class 'KeyError'>
+10:04:25,933 root ERROR Value: 'MODERATE'
+10:04:25,933 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+10:04:25,933 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+10:04:25,933 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+10:13:44,42 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:13:44,433 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:13:44,438 root ERROR An uncaught exception occurred:
+10:13:44,438 root ERROR Type: <class 'KeyError'>
+10:13:44,438 root ERROR Value: 'MODERATE'
+10:13:44,438 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+10:13:44,438 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+10:13:44,438 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+10:24:46,808 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:24:47,110 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:24:47,128 root ERROR An uncaught exception occurred:
+10:24:47,128 root ERROR Type: <class 'KeyError'>
+10:24:47,128 root ERROR Value: 'MODERATE'
+10:24:47,128 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+10:24:47,128 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+10:24:47,128 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+10:34:25,543 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:34:25,710 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:34:25,730 root ERROR An uncaught exception occurred:
+10:34:25,730 root ERROR Type: <class 'KeyError'>
+10:34:25,730 root ERROR Value: 'MODERATE'
+10:34:25,730 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+10:34:25,730 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+10:34:25,730 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+10:43:44,57 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:43:44,645 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:43:44,665 root ERROR An uncaught exception occurred:
+10:43:44,665 root ERROR Type: <class 'KeyError'>
+10:43:44,665 root ERROR Value: 'MODERATE'
+10:43:44,665 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+10:43:44,665 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+10:43:44,665 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+10:54:46,679 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:54:47,26 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:54:47,62 root ERROR An uncaught exception occurred:
+10:54:47,62 root ERROR Type: <class 'KeyError'>
+10:54:47,62 root ERROR Value: 'MODERATE'
+10:54:47,63 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+10:54:47,63 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+10:54:47,63 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+11:04:25,713 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:04:25,929 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:04:25,951 root ERROR An uncaught exception occurred:
+11:04:25,951 root ERROR Type: <class 'KeyError'>
+11:04:25,951 root ERROR Value: 'MODERATE'
+11:04:25,951 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+11:04:25,951 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+11:04:25,951 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+11:13:43,970 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:13:44,376 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:13:44,407 root ERROR An uncaught exception occurred:
+11:13:44,407 root ERROR Type: <class 'KeyError'>
+11:13:44,407 root ERROR Value: 'MODERATE'
+11:13:44,407 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+11:13:44,407 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+11:13:44,407 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+11:24:46,630 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:24:46,930 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:24:46,946 root ERROR An uncaught exception occurred:
+11:24:46,946 root ERROR Type: <class 'KeyError'>
+11:24:46,946 root ERROR Value: 'MODERATE'
+11:24:46,946 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+11:24:46,946 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+11:24:46,946 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+11:34:25,574 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:34:25,870 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:34:25,885 root ERROR An uncaught exception occurred:
+11:34:25,885 root ERROR Type: <class 'KeyError'>
+11:34:25,885 root ERROR Value: 'MODERATE'
+11:34:25,891 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+11:34:25,891 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+11:34:25,891 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+11:43:44,73 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:43:44,284 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:43:44,304 root ERROR An uncaught exception occurred:
+11:43:44,304 root ERROR Type: <class 'KeyError'>
+11:43:44,304 root ERROR Value: 'MODERATE'
+11:43:44,304 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+11:43:44,304 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+11:43:44,304 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+11:54:46,717 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:54:47,163 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:54:47,178 root ERROR An uncaught exception occurred:
+11:54:47,178 root ERROR Type: <class 'KeyError'>
+11:54:47,178 root ERROR Value: 'MODERATE'
+11:54:47,178 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+11:54:47,178 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+11:54:47,178 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+12:04:25,651 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:04:26,39 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:04:26,40 root ERROR An uncaught exception occurred:
+12:04:26,40 root ERROR Type: <class 'KeyError'>
+12:04:26,40 root ERROR Value: 'MODERATE'
+12:04:26,40 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+12:04:26,40 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+12:04:26,40 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+12:13:44,79 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:13:44,359 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:13:44,391 root ERROR An uncaught exception occurred:
+12:13:44,391 root ERROR Type: <class 'KeyError'>
+12:13:44,391 root ERROR Value: 'MODERATE'
+12:13:44,406 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+12:13:44,407 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+12:13:44,407 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+12:24:46,766 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:24:47,114 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:24:47,141 root ERROR An uncaught exception occurred:
+12:24:47,141 root ERROR Type: <class 'KeyError'>
+12:24:47,141 root ERROR Value: 'MODERATE'
+12:24:47,141 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+12:24:47,141 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+12:24:47,141 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+12:34:25,723 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:34:26,38 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:34:26,58 root ERROR An uncaught exception occurred:
+12:34:26,58 root ERROR Type: <class 'KeyError'>
+12:34:26,58 root ERROR Value: 'MODERATE'
+12:34:26,58 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+12:34:26,62 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+12:34:26,62 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+12:43:43,832 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:43:44,76 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:43:44,112 root ERROR An uncaught exception occurred:
+12:43:44,112 root ERROR Type: <class 'KeyError'>
+12:43:44,112 root ERROR Value: 'MODERATE'
+12:43:44,113 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+12:43:44,113 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+12:43:44,113 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+12:54:46,640 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:54:46,996 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:54:47,16 root ERROR An uncaught exception occurred:
+12:54:47,17 root ERROR Type: <class 'KeyError'>
+12:54:47,17 root ERROR Value: 'MODERATE'
+12:54:47,17 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+12:54:47,17 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+12:54:47,17 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+13:04:25,616 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:04:26,5 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:04:26,56 root ERROR An uncaught exception occurred:
+13:04:26,56 root ERROR Type: <class 'KeyError'>
+13:04:26,56 root ERROR Value: 'MODERATE'
+13:04:26,56 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+13:04:26,56 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+13:04:26,56 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+13:13:44,232 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:13:44,467 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:13:44,504 root ERROR An uncaught exception occurred:
+13:13:44,504 root ERROR Type: <class 'KeyError'>
+13:13:44,504 root ERROR Value: 'MODERATE'
+13:13:44,504 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+13:13:44,504 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+13:13:44,504 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+13:24:46,652 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:24:47,33 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:24:47,51 root ERROR An uncaught exception occurred:
+13:24:47,51 root ERROR Type: <class 'KeyError'>
+13:24:47,51 root ERROR Value: 'MODERATE'
+13:24:47,51 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+13:24:47,51 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+13:24:47,51 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+13:34:25,732 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:34:26,156 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:34:26,177 root ERROR An uncaught exception occurred:
+13:34:26,177 root ERROR Type: <class 'KeyError'>
+13:34:26,177 root ERROR Value: 'MODERATE'
+13:34:26,177 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+13:34:26,177 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+13:34:26,177 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+13:43:44,198 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:43:44,574 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:43:44,609 root ERROR An uncaught exception occurred:
+13:43:44,609 root ERROR Type: <class 'KeyError'>
+13:43:44,609 root ERROR Value: 'MODERATE'
+13:43:44,609 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+13:43:44,609 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+13:43:44,609 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+13:54:46,702 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:54:46,968 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:54:47,7 root ERROR An uncaught exception occurred:
+13:54:47,7 root ERROR Type: <class 'KeyError'>
+13:54:47,7 root ERROR Value: 'MODERATE'
+13:54:47,7 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+13:54:47,7 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+13:54:47,7 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+14:04:25,600 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:04:25,874 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:04:25,911 root ERROR An uncaught exception occurred:
+14:04:25,911 root ERROR Type: <class 'KeyError'>
+14:04:25,912 root ERROR Value: 'MODERATE'
+14:04:25,914 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+14:04:25,914 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+14:04:25,914 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+14:13:44,46 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:13:44,321 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:13:44,370 root ERROR An uncaught exception occurred:
+14:13:44,370 root ERROR Type: <class 'KeyError'>
+14:13:44,370 root ERROR Value: 'MODERATE'
+14:13:44,370 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+14:13:44,370 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+14:13:44,370 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+14:24:46,687 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:24:47,112 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:24:47,132 root ERROR An uncaught exception occurred:
+14:24:47,132 root ERROR Type: <class 'KeyError'>
+14:24:47,132 root ERROR Value: 'MODERATE'
+14:24:47,132 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+14:24:47,132 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+14:24:47,132 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+14:34:25,666 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:34:26,47 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:34:26,93 root ERROR An uncaught exception occurred:
+14:34:26,93 root ERROR Type: <class 'KeyError'>
+14:34:26,93 root ERROR Value: 'MODERATE'
+14:34:26,110 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+14:34:26,110 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+14:34:26,111 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+14:43:44,130 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:43:44,341 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:43:44,375 root ERROR An uncaught exception occurred:
+14:43:44,376 root ERROR Type: <class 'KeyError'>
+14:43:44,376 root ERROR Value: 'MODERATE'
+14:43:44,379 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+14:43:44,379 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+14:43:44,379 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+14:54:46,733 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:54:47,135 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:54:47,190 root ERROR An uncaught exception occurred:
+14:54:47,190 root ERROR Type: <class 'KeyError'>
+14:54:47,190 root ERROR Value: 'MODERATE'
+14:54:47,190 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+14:54:47,190 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+14:54:47,190 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+15:04:25,632 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:04:25,964 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:04:25,995 root ERROR An uncaught exception occurred:
+15:04:25,995 root ERROR Type: <class 'KeyError'>
+15:04:25,995 root ERROR Value: 'MODERATE'
+15:04:25,995 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+15:04:25,995 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+15:04:25,995 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+15:13:44,375 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:13:44,764 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:13:44,777 root ERROR An uncaught exception occurred:
+15:13:44,777 root ERROR Type: <class 'KeyError'>
+15:13:44,778 root ERROR Value: 'MODERATE'
+15:13:44,778 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+15:13:44,778 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+15:13:44,778 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+15:24:46,800 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:24:47,98 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:24:47,117 root ERROR An uncaught exception occurred:
+15:24:47,118 root ERROR Type: <class 'KeyError'>
+15:24:47,118 root ERROR Value: 'MODERATE'
+15:24:47,118 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+15:24:47,118 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+15:24:47,118 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+15:34:25,640 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:34:25,953 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:34:25,974 root ERROR An uncaught exception occurred:
+15:34:25,974 root ERROR Type: <class 'KeyError'>
+15:34:25,974 root ERROR Value: 'MODERATE'
+15:34:25,974 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+15:34:25,974 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+15:34:25,974 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+15:43:43,995 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:43:44,312 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:43:44,339 root ERROR An uncaught exception occurred:
+15:43:44,339 root ERROR Type: <class 'KeyError'>
+15:43:44,339 root ERROR Value: 'MODERATE'
+15:43:44,345 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+15:43:44,346 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+15:43:44,346 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+15:54:46,743 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:54:47,51 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:54:47,73 root ERROR An uncaught exception occurred:
+15:54:47,73 root ERROR Type: <class 'KeyError'>
+15:54:47,73 root ERROR Value: 'MODERATE'
+15:54:47,73 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+15:54:47,73 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+15:54:47,73 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+16:04:25,524 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:04:25,760 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+16:04:25,792 root ERROR An uncaught exception occurred:
+16:04:25,792 root ERROR Type: <class 'KeyError'>
+16:04:25,792 root ERROR Value: 'MODERATE'
+16:04:25,792 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+16:04:25,792 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+16:04:25,792 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+16:13:44,189 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:13:44,419 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:13:44,470 root ERROR An uncaught exception occurred:
+16:13:44,471 root ERROR Type: <class 'KeyError'>
+16:13:44,471 root ERROR Value: 'MODERATE'
+16:13:44,471 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+16:13:44,471 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+16:13:44,471 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+16:24:46,742 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:24:47,104 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:24:47,133 root ERROR An uncaught exception occurred:
+16:24:47,133 root ERROR Type: <class 'KeyError'>
+16:24:47,133 root ERROR Value: 'MODERATE'
+16:24:47,133 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+16:24:47,133 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+16:24:47,133 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+16:34:25,722 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:34:25,922 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:34:25,944 root ERROR An uncaught exception occurred:
+16:34:25,944 root ERROR Type: <class 'KeyError'>
+16:34:25,944 root ERROR Value: 'MODERATE'
+16:34:25,944 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+16:34:25,944 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+16:34:25,944 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+16:43:43,982 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:43:44,330 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:43:44,371 root ERROR An uncaught exception occurred:
+16:43:44,371 root ERROR Type: <class 'KeyError'>
+16:43:44,371 root ERROR Value: 'MODERATE'
+16:43:44,371 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+16:43:44,371 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+16:43:44,371 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+16:54:46,717 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:54:47,466 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:54:47,494 root ERROR An uncaught exception occurred:
+16:54:47,494 root ERROR Type: <class 'KeyError'>
+16:54:47,494 root ERROR Value: 'MODERATE'
+16:54:47,495 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+16:54:47,495 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+16:54:47,495 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+17:04:25,813 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:04:26,115 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:04:26,126 root ERROR An uncaught exception occurred:
+17:04:26,126 root ERROR Type: <class 'KeyError'>
+17:04:26,126 root ERROR Value: 'MODERATE'
+17:04:26,126 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+17:04:26,126 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+17:04:26,126 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+17:13:44,32 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:13:44,374 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:13:44,440 root ERROR An uncaught exception occurred:
+17:13:44,440 root ERROR Type: <class 'KeyError'>
+17:13:44,440 root ERROR Value: 'MODERATE'
+17:13:44,440 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+17:13:44,440 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+17:13:44,440 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+17:24:46,620 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:24:47,11 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:24:47,44 root ERROR An uncaught exception occurred:
+17:24:47,44 root ERROR Type: <class 'KeyError'>
+17:24:47,44 root ERROR Value: 'MODERATE'
+17:24:47,44 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+17:24:47,44 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+17:24:47,44 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+17:34:25,646 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:34:25,836 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:34:25,869 root ERROR An uncaught exception occurred:
+17:34:25,869 root ERROR Type: <class 'KeyError'>
+17:34:25,869 root ERROR Value: 'MODERATE'
+17:34:25,869 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+17:34:25,869 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+17:34:25,869 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+17:43:44,193 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:43:44,600 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:43:44,625 root ERROR An uncaught exception occurred:
+17:43:44,625 root ERROR Type: <class 'KeyError'>
+17:43:44,625 root ERROR Value: 'MODERATE'
+17:43:44,625 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+17:43:44,625 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+17:43:44,625 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+17:54:46,653 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:54:47,117 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:54:47,156 root ERROR An uncaught exception occurred:
+17:54:47,156 root ERROR Type: <class 'KeyError'>
+17:54:47,156 root ERROR Value: 'MODERATE'
+17:54:47,164 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+17:54:47,164 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+17:54:47,164 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+18:04:25,821 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:04:26,197 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:04:26,215 root ERROR An uncaught exception occurred:
+18:04:26,215 root ERROR Type: <class 'KeyError'>
+18:04:26,215 root ERROR Value: 'MODERATE'
+18:04:26,215 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+18:04:26,215 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+18:04:26,215 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+18:13:44,72 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:13:44,333 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:13:44,362 root ERROR An uncaught exception occurred:
+18:13:44,363 root ERROR Type: <class 'KeyError'>
+18:13:44,363 root ERROR Value: 'MODERATE'
+18:13:44,363 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+18:13:44,363 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+18:13:44,363 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+18:24:46,761 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:24:47,89 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:24:47,112 root ERROR An uncaught exception occurred:
+18:24:47,112 root ERROR Type: <class 'KeyError'>
+18:24:47,112 root ERROR Value: 'MODERATE'
+18:24:47,112 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+18:24:47,128 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+18:24:47,128 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+18:34:25,669 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:34:26,162 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:34:26,219 root ERROR An uncaught exception occurred:
+18:34:26,219 root ERROR Type: <class 'KeyError'>
+18:34:26,219 root ERROR Value: 'MODERATE'
+18:34:26,219 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+18:34:26,219 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+18:34:26,219 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+18:43:44,74 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:43:44,535 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:43:44,554 root ERROR An uncaught exception occurred:
+18:43:44,554 root ERROR Type: <class 'KeyError'>
+18:43:44,554 root ERROR Value: 'MODERATE'
+18:43:44,554 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+18:43:44,554 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+18:43:44,554 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+18:54:46,866 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:54:47,634 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:54:47,645 root ERROR An uncaught exception occurred:
+18:54:47,645 root ERROR Type: <class 'KeyError'>
+18:54:47,661 root ERROR Value: 'MODERATE'
+18:54:47,663 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+18:54:47,663 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+18:54:47,663 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+19:04:25,864 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:04:26,176 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+19:04:26,223 root ERROR An uncaught exception occurred:
+19:04:26,223 root ERROR Type: <class 'KeyError'>
+19:04:26,223 root ERROR Value: 'MODERATE'
+19:04:26,223 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+19:04:26,223 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+19:04:26,223 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+19:13:44,64 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:13:44,468 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+19:13:44,507 root ERROR An uncaught exception occurred:
+19:13:44,507 root ERROR Type: <class 'KeyError'>
+19:13:44,507 root ERROR Value: 'MODERATE'
+19:13:44,507 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+19:13:44,507 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+19:13:44,507 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+19:24:46,709 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:24:47,119 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+19:24:47,139 root ERROR An uncaught exception occurred:
+19:24:47,139 root ERROR Type: <class 'KeyError'>
+19:24:47,139 root ERROR Value: 'MODERATE'
+19:24:47,139 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+19:24:47,155 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+19:24:47,156 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+19:34:25,634 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:34:25,975 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+19:34:25,993 root ERROR An uncaught exception occurred:
+19:34:25,993 root ERROR Type: <class 'KeyError'>
+19:34:25,993 root ERROR Value: 'MODERATE'
+19:34:25,993 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+19:34:25,993 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+19:34:25,993 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+19:43:44,30 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:43:44,908 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+19:43:44,953 root ERROR An uncaught exception occurred:
+19:43:44,953 root ERROR Type: <class 'KeyError'>
+19:43:44,953 root ERROR Value: 'MODERATE'
+19:43:44,953 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+19:43:44,953 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+19:43:44,953 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+19:54:46,830 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:54:47,100 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+19:54:47,119 root ERROR An uncaught exception occurred:
+19:54:47,119 root ERROR Type: <class 'KeyError'>
+19:54:47,119 root ERROR Value: 'MODERATE'
+19:54:47,119 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+19:54:47,119 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+19:54:47,119 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+20:04:25,675 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+20:04:25,969 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+20:04:25,991 root ERROR An uncaught exception occurred:
+20:04:25,991 root ERROR Type: <class 'KeyError'>
+20:04:25,991 root ERROR Value: 'MODERATE'
+20:04:26,8 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+20:04:26,9 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+20:04:26,9 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+20:13:44,7 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+20:13:44,529 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+20:13:44,543 root ERROR An uncaught exception occurred:
+20:13:44,543 root ERROR Type: <class 'KeyError'>
+20:13:44,543 root ERROR Value: 'MODERATE'
+20:13:44,543 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+20:13:44,543 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+20:13:44,543 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+20:24:46,731 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+20:24:47,525 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+20:24:47,572 root ERROR An uncaught exception occurred:
+20:24:47,572 root ERROR Type: <class 'KeyError'>
+20:24:47,572 root ERROR Value: 'MODERATE'
+20:24:47,572 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+20:24:47,572 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+20:24:47,572 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+20:34:25,612 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+20:34:25,803 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+20:34:25,826 root ERROR An uncaught exception occurred:
+20:34:25,826 root ERROR Type: <class 'KeyError'>
+20:34:25,826 root ERROR Value: 'MODERATE'
+20:34:25,826 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+20:34:25,826 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+20:34:25,826 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+20:43:44,96 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+20:43:44,360 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+20:43:44,388 root ERROR An uncaught exception occurred:
+20:43:44,388 root ERROR Type: <class 'KeyError'>
+20:43:44,388 root ERROR Value: 'MODERATE'
+20:43:44,388 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+20:43:44,388 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+20:43:44,404 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+20:54:46,627 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+20:54:46,805 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+20:54:46,861 root ERROR An uncaught exception occurred:
+20:54:46,862 root ERROR Type: <class 'KeyError'>
+20:54:46,862 root ERROR Value: 'MODERATE'
+20:54:46,864 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+20:54:46,864 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+20:54:46,864 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+21:04:25,934 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+21:04:26,337 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+21:04:26,358 root ERROR An uncaught exception occurred:
+21:04:26,358 root ERROR Type: <class 'KeyError'>
+21:04:26,358 root ERROR Value: 'MODERATE'
+21:04:26,358 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+21:04:26,358 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+21:04:26,358 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+21:13:44,118 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+21:13:44,426 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+21:13:44,458 root ERROR An uncaught exception occurred:
+21:13:44,458 root ERROR Type: <class 'KeyError'>
+21:13:44,459 root ERROR Value: 'MODERATE'
+21:13:44,461 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+21:13:44,461 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+21:13:44,462 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+21:24:46,776 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+21:24:47,222 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+21:24:47,268 root ERROR An uncaught exception occurred:
+21:24:47,269 root ERROR Type: <class 'KeyError'>
+21:24:47,269 root ERROR Value: 'MODERATE'
+21:24:47,269 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+21:24:47,269 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+21:24:47,269 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+21:34:25,713 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+21:34:25,912 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+21:34:25,932 root ERROR An uncaught exception occurred:
+21:34:25,932 root ERROR Type: <class 'KeyError'>
+21:34:25,932 root ERROR Value: 'MODERATE'
+21:34:25,932 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+21:34:25,932 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+21:34:25,932 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+21:43:44,167 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+21:43:44,394 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+21:43:44,405 root ERROR An uncaught exception occurred:
+21:43:44,405 root ERROR Type: <class 'KeyError'>
+21:43:44,407 root ERROR Value: 'MODERATE'
+21:43:44,410 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+21:43:44,410 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+21:43:44,411 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+21:54:46,780 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+21:54:47,176 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+21:54:47,188 root ERROR An uncaught exception occurred:
+21:54:47,188 root ERROR Type: <class 'KeyError'>
+21:54:47,188 root ERROR Value: 'MODERATE'
+21:54:47,188 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+21:54:47,188 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+21:54:47,188 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+22:04:25,597 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+22:04:25,904 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+22:04:25,938 root ERROR An uncaught exception occurred:
+22:04:25,938 root ERROR Type: <class 'KeyError'>
+22:04:25,938 root ERROR Value: 'MODERATE'
+22:04:25,938 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+22:04:25,938 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+22:04:25,938 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+22:13:44,103 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+22:13:44,576 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+22:13:44,595 root ERROR An uncaught exception occurred:
+22:13:44,595 root ERROR Type: <class 'KeyError'>
+22:13:44,595 root ERROR Value: 'MODERATE'
+22:13:44,595 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+22:13:44,595 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+22:13:44,595 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+22:24:46,740 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+22:24:47,157 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+22:24:47,177 root ERROR An uncaught exception occurred:
+22:24:47,177 root ERROR Type: <class 'KeyError'>
+22:24:47,177 root ERROR Value: 'MODERATE'
+22:24:47,177 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+22:24:47,177 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+22:24:47,177 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+22:34:25,594 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+22:34:25,896 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+22:34:25,925 root ERROR An uncaught exception occurred:
+22:34:25,926 root ERROR Type: <class 'KeyError'>
+22:34:25,926 root ERROR Value: 'MODERATE'
+22:34:25,928 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+22:34:25,928 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+22:34:25,928 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+22:43:44,162 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+22:43:44,539 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+22:43:44,571 root ERROR An uncaught exception occurred:
+22:43:44,571 root ERROR Type: <class 'KeyError'>
+22:43:44,571 root ERROR Value: 'MODERATE'
+22:43:44,571 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+22:43:44,571 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+22:43:44,571 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+22:54:46,894 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+22:54:47,534 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+22:54:47,566 root ERROR An uncaught exception occurred:
+22:54:47,566 root ERROR Type: <class 'KeyError'>
+22:54:47,566 root ERROR Value: 'MODERATE'
+22:54:47,566 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+22:54:47,566 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+22:54:47,566 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+23:04:25,738 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+23:04:26,345 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+23:04:26,362 root ERROR An uncaught exception occurred:
+23:04:26,362 root ERROR Type: <class 'KeyError'>
+23:04:26,362 root ERROR Value: 'MODERATE'
+23:04:26,362 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+23:04:26,362 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+23:04:26,362 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+23:13:44,33 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+23:13:44,352 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+23:13:44,368 root ERROR An uncaught exception occurred:
+23:13:44,369 root ERROR Type: <class 'KeyError'>
+23:13:44,369 root ERROR Value: 'MODERATE'
+23:13:44,370 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+23:13:44,370 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+23:13:44,370 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+23:24:46,736 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+23:24:47,119 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+23:24:47,163 root ERROR An uncaught exception occurred:
+23:24:47,163 root ERROR Type: <class 'KeyError'>
+23:24:47,163 root ERROR Value: 'MODERATE'
+23:24:47,166 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+23:24:47,166 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+23:24:47,166 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+23:34:25,711 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+23:34:26,175 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+23:34:26,216 root ERROR An uncaught exception occurred:
+23:34:26,217 root ERROR Type: <class 'KeyError'>
+23:34:26,217 root ERROR Value: 'MODERATE'
+23:34:26,217 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+23:34:26,217 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+23:34:26,217 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+23:43:44,5 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+23:43:44,318 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+23:43:44,349 root ERROR An uncaught exception occurred:
+23:43:44,349 root ERROR Type: <class 'KeyError'>
+23:43:44,349 root ERROR Value: 'MODERATE'
+23:43:44,360 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+23:43:44,360 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+23:43:44,360 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+23:54:46,617 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+23:54:46,966 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+23:54:46,986 root ERROR An uncaught exception occurred:
+23:54:46,986 root ERROR Type: <class 'KeyError'>
+23:54:46,986 root ERROR Value: 'MODERATE'
+23:54:46,986 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+23:54:46,986 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+23:54:46,986 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+00:04:25,655 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+00:04:25,953 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+00:04:25,953 root ERROR An uncaught exception occurred:
+00:04:25,953 root ERROR Type: <class 'KeyError'>
+00:04:25,953 root ERROR Value: 'MODERATE'
+00:04:25,953 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+00:04:25,953 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+00:04:25,953 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+00:13:43,983 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+00:13:44,247 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+00:13:44,292 root ERROR An uncaught exception occurred:
+00:13:44,292 root ERROR Type: <class 'KeyError'>
+00:13:44,292 root ERROR Value: 'MODERATE'
+00:13:44,292 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+00:13:44,292 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+00:13:44,308 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+00:24:46,673 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+00:24:47,27 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+00:24:47,57 root ERROR An uncaught exception occurred:
+00:24:47,57 root ERROR Type: <class 'KeyError'>
+00:24:47,57 root ERROR Value: 'MODERATE'
+00:24:47,57 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+00:24:47,57 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+00:24:47,57 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+00:34:25,577 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+00:34:26,78 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+00:34:26,139 root ERROR An uncaught exception occurred:
+00:34:26,139 root ERROR Type: <class 'KeyError'>
+00:34:26,140 root ERROR Value: 'MODERATE'
+00:34:26,140 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+00:34:26,140 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+00:34:26,140 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+00:43:43,989 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+00:43:46,410 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+00:43:46,429 root ERROR An uncaught exception occurred:
+00:43:46,430 root ERROR Type: <class 'KeyError'>
+00:43:46,430 root ERROR Value: 'MODERATE'
+00:43:46,430 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+00:43:46,430 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+00:43:46,434 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+00:54:46,802 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+00:54:47,432 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+00:54:47,449 root ERROR An uncaught exception occurred:
+00:54:47,450 root ERROR Type: <class 'KeyError'>
+00:54:47,450 root ERROR Value: 'MODERATE'
+00:54:47,450 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+00:54:47,450 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+00:54:47,450 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+01:04:25,905 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+01:04:26,321 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+01:04:26,339 root ERROR An uncaught exception occurred:
+01:04:26,339 root ERROR Type: <class 'KeyError'>
+01:04:26,340 root ERROR Value: 'MODERATE'
+01:04:26,341 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+01:04:26,341 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+01:04:26,341 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+01:13:44,161 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+01:13:44,519 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+01:13:44,547 root ERROR An uncaught exception occurred:
+01:13:44,547 root ERROR Type: <class 'KeyError'>
+01:13:44,548 root ERROR Value: 'MODERATE'
+01:13:44,548 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+01:13:44,548 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+01:13:44,548 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+01:24:46,952 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+01:24:47,269 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+01:24:47,288 root ERROR An uncaught exception occurred:
+01:24:47,288 root ERROR Type: <class 'KeyError'>
+01:24:47,288 root ERROR Value: 'MODERATE'
+01:24:47,288 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+01:24:47,304 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+01:24:47,304 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+01:34:25,616 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+01:34:25,973 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+01:34:26,17 root ERROR An uncaught exception occurred:
+01:34:26,17 root ERROR Type: <class 'KeyError'>
+01:34:26,17 root ERROR Value: 'MODERATE'
+01:34:26,17 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+01:34:26,17 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+01:34:26,17 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+01:43:44,40 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+01:43:44,478 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+01:43:44,498 root ERROR An uncaught exception occurred:
+01:43:44,498 root ERROR Type: <class 'KeyError'>
+01:43:44,499 root ERROR Value: 'MODERATE'
+01:43:44,501 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+01:43:44,501 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+01:43:44,501 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+01:54:46,913 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+01:54:47,192 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+01:54:47,242 root ERROR An uncaught exception occurred:
+01:54:47,242 root ERROR Type: <class 'KeyError'>
+01:54:47,242 root ERROR Value: 'MODERATE'
+01:54:47,242 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+01:54:47,242 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+01:54:47,242 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+02:04:26,16 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+02:04:26,336 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+02:04:26,358 root ERROR An uncaught exception occurred:
+02:04:26,358 root ERROR Type: <class 'KeyError'>
+02:04:26,358 root ERROR Value: 'MODERATE'
+02:04:26,358 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+02:04:26,358 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+02:04:26,358 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+02:13:44,50 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+02:13:44,318 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+02:13:44,364 root ERROR An uncaught exception occurred:
+02:13:44,364 root ERROR Type: <class 'KeyError'>
+02:13:44,364 root ERROR Value: 'MODERATE'
+02:13:44,364 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+02:13:44,364 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+02:13:44,364 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+02:24:46,758 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+02:24:47,125 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+02:24:47,144 root ERROR An uncaught exception occurred:
+02:24:47,144 root ERROR Type: <class 'KeyError'>
+02:24:47,144 root ERROR Value: 'MODERATE'
+02:24:47,144 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+02:24:47,144 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+02:24:47,144 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+02:34:25,942 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+02:34:26,396 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+02:34:26,402 root ERROR An uncaught exception occurred:
+02:34:26,418 root ERROR Type: <class 'KeyError'>
+02:34:26,418 root ERROR Value: 'MODERATE'
+02:34:26,419 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+02:34:26,419 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+02:34:26,419 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+02:43:43,992 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+02:43:44,243 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+02:43:44,263 root ERROR An uncaught exception occurred:
+02:43:44,263 root ERROR Type: <class 'KeyError'>
+02:43:44,263 root ERROR Value: 'MODERATE'
+02:43:44,263 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+02:43:44,263 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+02:43:44,263 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+02:54:46,701 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+02:54:47,368 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+02:54:47,381 root ERROR An uncaught exception occurred:
+02:54:47,381 root ERROR Type: <class 'KeyError'>
+02:54:47,381 root ERROR Value: 'MODERATE'
+02:54:47,383 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+02:54:47,383 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+02:54:47,383 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+03:04:25,885 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+03:04:26,149 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+03:04:26,190 root ERROR An uncaught exception occurred:
+03:04:26,190 root ERROR Type: <class 'KeyError'>
+03:04:26,190 root ERROR Value: 'MODERATE'
+03:04:26,190 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+03:04:26,190 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+03:04:26,190 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+03:13:44,128 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+03:13:44,516 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+03:13:44,531 root ERROR An uncaught exception occurred:
+03:13:44,531 root ERROR Type: <class 'KeyError'>
+03:13:44,531 root ERROR Value: 'MODERATE'
+03:13:44,531 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+03:13:44,531 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+03:13:44,531 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+03:24:46,688 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+03:24:47,80 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+03:24:47,99 root ERROR An uncaught exception occurred:
+03:24:47,99 root ERROR Type: <class 'KeyError'>
+03:24:47,99 root ERROR Value: 'MODERATE'
+03:24:47,99 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+03:24:47,99 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+03:24:47,99 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+03:34:25,599 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+03:34:26,428 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+03:34:26,474 root ERROR An uncaught exception occurred:
+03:34:26,474 root ERROR Type: <class 'KeyError'>
+03:34:26,474 root ERROR Value: 'MODERATE'
+03:34:26,476 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+03:34:26,476 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+03:34:26,476 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+03:43:44,212 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+03:43:44,448 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+03:43:44,493 root ERROR An uncaught exception occurred:
+03:43:44,493 root ERROR Type: <class 'KeyError'>
+03:43:44,493 root ERROR Value: 'MODERATE'
+03:43:44,493 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+03:43:44,493 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+03:43:44,493 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+03:54:46,769 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+03:54:46,973 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+03:54:47,30 root ERROR An uncaught exception occurred:
+03:54:47,30 root ERROR Type: <class 'KeyError'>
+03:54:47,30 root ERROR Value: 'MODERATE'
+03:54:47,30 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+03:54:47,30 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+03:54:47,30 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+04:04:25,515 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+04:04:25,782 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+04:04:25,807 root ERROR An uncaught exception occurred:
+04:04:25,807 root ERROR Type: <class 'KeyError'>
+04:04:25,807 root ERROR Value: 'MODERATE'
+04:04:25,808 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+04:04:25,808 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+04:04:25,808 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+04:13:44,20 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+04:13:44,432 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+04:13:44,478 root ERROR An uncaught exception occurred:
+04:13:44,478 root ERROR Type: <class 'KeyError'>
+04:13:44,478 root ERROR Value: 'MODERATE'
+04:13:44,478 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+04:13:44,478 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+04:13:44,478 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+04:24:46,762 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+04:24:47,37 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+04:24:47,72 root ERROR An uncaught exception occurred:
+04:24:47,72 root ERROR Type: <class 'KeyError'>
+04:24:47,72 root ERROR Value: 'MODERATE'
+04:24:47,72 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+04:24:47,72 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+04:24:47,72 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+04:34:25,570 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+04:34:26,60 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+04:34:26,82 root ERROR An uncaught exception occurred:
+04:34:26,82 root ERROR Type: <class 'KeyError'>
+04:34:26,82 root ERROR Value: 'MODERATE'
+04:34:26,82 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+04:34:26,82 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+04:34:26,82 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+04:43:44,66 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+04:43:44,355 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+04:43:44,395 root ERROR An uncaught exception occurred:
+04:43:44,395 root ERROR Type: <class 'KeyError'>
+04:43:44,395 root ERROR Value: 'MODERATE'
+04:43:44,395 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+04:43:44,395 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+04:43:44,395 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+04:54:46,709 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+04:54:47,158 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+04:54:47,176 root ERROR An uncaught exception occurred:
+04:54:47,176 root ERROR Type: <class 'KeyError'>
+04:54:47,176 root ERROR Value: 'MODERATE'
+04:54:47,176 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+04:54:47,176 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+04:54:47,184 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+05:04:25,508 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+05:04:25,848 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+05:04:25,886 root ERROR An uncaught exception occurred:
+05:04:25,886 root ERROR Type: <class 'KeyError'>
+05:04:25,886 root ERROR Value: 'MODERATE'
+05:04:25,886 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+05:04:25,886 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+05:04:25,886 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+05:13:43,959 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+05:13:44,335 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+05:13:44,376 root ERROR An uncaught exception occurred:
+05:13:44,376 root ERROR Type: <class 'KeyError'>
+05:13:44,376 root ERROR Value: 'MODERATE'
+05:13:44,376 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+05:13:44,376 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+05:13:44,376 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+05:24:46,723 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+05:24:47,62 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+05:24:47,84 root ERROR An uncaught exception occurred:
+05:24:47,84 root ERROR Type: <class 'KeyError'>
+05:24:47,84 root ERROR Value: 'MODERATE'
+05:24:47,85 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+05:24:47,85 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+05:24:47,85 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+05:34:25,623 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+05:34:25,941 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+05:34:25,958 root ERROR An uncaught exception occurred:
+05:34:25,958 root ERROR Type: <class 'KeyError'>
+05:34:25,958 root ERROR Value: 'MODERATE'
+05:34:25,958 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+05:34:25,958 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+05:34:25,958 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+05:43:43,927 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+05:43:44,319 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+05:43:44,348 root ERROR An uncaught exception occurred:
+05:43:44,349 root ERROR Type: <class 'KeyError'>
+05:43:44,349 root ERROR Value: 'MODERATE'
+05:43:44,352 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+05:43:44,353 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+05:43:44,353 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+05:54:46,663 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+05:54:47,182 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+05:54:47,206 root ERROR An uncaught exception occurred:
+05:54:47,206 root ERROR Type: <class 'KeyError'>
+05:54:47,206 root ERROR Value: 'MODERATE'
+05:54:47,206 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+05:54:47,206 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+05:54:47,206 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+06:04:25,596 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:04:25,945 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:04:25,953 root ERROR An uncaught exception occurred:
+06:04:25,953 root ERROR Type: <class 'KeyError'>
+06:04:25,953 root ERROR Value: 'MODERATE'
+06:04:25,954 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+06:04:25,954 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+06:04:25,954 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+06:13:43,988 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:13:44,316 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:13:44,338 root ERROR An uncaught exception occurred:
+06:13:44,338 root ERROR Type: <class 'KeyError'>
+06:13:44,338 root ERROR Value: 'MODERATE'
+06:13:44,338 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+06:13:44,338 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+06:13:44,338 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+06:24:46,657 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:24:46,898 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:24:46,969 root ERROR An uncaught exception occurred:
+06:24:46,969 root ERROR Type: <class 'KeyError'>
+06:24:46,969 root ERROR Value: 'MODERATE'
+06:24:46,969 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+06:24:46,969 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+06:24:46,969 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+06:34:25,614 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:34:25,886 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:34:25,938 root ERROR An uncaught exception occurred:
+06:34:25,938 root ERROR Type: <class 'KeyError'>
+06:34:25,938 root ERROR Value: 'MODERATE'
+06:34:25,938 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+06:34:25,938 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+06:34:25,938 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+06:38:39,883 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:38:40,319 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:38:40,409 root ERROR An uncaught exception occurred:
+06:38:40,409 root ERROR Type: <class 'KeyError'>
+06:38:40,410 root ERROR Value: 'MODERATE'
+06:38:40,410 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+06:38:40,411 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+06:38:40,411 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+06:40:23,734 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:40:24,15 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:40:24,41 root ERROR An uncaught exception occurred:
+06:40:24,41 root ERROR Type: <class 'KeyError'>
+06:40:24,42 root ERROR Value: 'MODERATE'
+06:40:24,43 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+06:40:24,43 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+06:40:24,43 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+06:41:06,381 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:41:06,578 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:41:06,607 root ERROR An uncaught exception occurred:
+06:41:06,607 root ERROR Type: <class 'KeyError'>
+06:41:06,607 root ERROR Value: ''
+06:41:06,608 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 120, in <module>\n    main()\n'
+06:41:06,609 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 102, in main\n    new_forecasts = [\n'
+06:41:06,609 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+06:43:14,252 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:43:14,526 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:43:14,595 root ERROR An uncaught exception occurred:
+06:43:14,595 root ERROR Type: <class 'KeyError'>
+06:43:14,595 root ERROR Value: ''
+06:43:14,596 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+06:43:14,596 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in main\n    new_forecasts = [\n'
+06:43:14,596 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 104, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+06:43:44,14 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:43:44,253 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:43:44,312 root ERROR An uncaught exception occurred:
+06:43:44,314 root ERROR Type: <class 'KeyError'>
+06:43:44,314 root ERROR Value: ''
+06:43:44,317 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+06:43:44,318 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in main\n    new_forecasts = [\n'
+06:43:44,318 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 104, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+06:44:30,370 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:44:30,551 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:44:30,564 root ERROR An uncaught exception occurred:
+06:44:30,565 root ERROR Type: <class 'TypeError'>
+06:44:30,565 root ERROR Value: 'indent' is an invalid keyword argument for print()
+06:44:30,565 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+06:44:30,565 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 94, in main\n    print(json.dumps(response.json()[\'FireBansAndRatingsDistrictWrapper\']), indent=4)\n'
+06:44:44,861 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:44:45,120 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:44:45,148 root ERROR An uncaught exception occurred:
+06:44:45,148 root ERROR Type: <class 'TypeError'>
+06:44:45,149 root ERROR Value: 'indent' is an invalid keyword argument for print()
+06:44:45,152 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+06:44:45,153 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 94, in main\n    print(json.dumps(response.json()[\'FireBansAndRatingsDistrictWrapper\']), indent=4)\n'
+06:45:04,31 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:45:04,230 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:45:04,398 root ERROR An uncaught exception occurred:
+06:45:04,398 root ERROR Type: <class 'KeyError'>
+06:45:04,398 root ERROR Value: ''
+06:45:04,399 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+06:45:04,399 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 103, in main\n    new_forecasts = [\n'
+06:45:04,400 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 104, in <listcomp>\n    {\'date\': f[\'IssueDate\'], \'issued_at\': f[\'IssueAt\'], \'status\': STATUS_MAP[\'status\'][f[\'Status\']], \'rating\': STATUS_MAP[\'rating\'][f[\'DistrictRating\']]}\n'
+06:45:34,231 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:45:34,393 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:45:34,589 root ERROR An uncaught exception occurred:
+06:45:34,589 root ERROR Type: <class 'FileNotFoundError'>
+06:45:34,589 root ERROR Value: [Errno 2] No such file or directory: 'vic_fire_danger/forecast_history.api.json'
+06:45:34,589 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+06:45:34,590 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 108, in main\n    old_forecasts = json.load(open(\'vic_fire_danger/forecast_history.api.json\'))\n'
+06:46:31,853 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:46:32,57 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:46:32,231 root ERROR An uncaught exception occurred:
+06:46:32,231 root ERROR Type: <class 'json.decoder.JSONDecodeError'>
+06:46:32,231 root ERROR Value: Expecting value: line 1 column 1 (char 0)
+06:46:32,233 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+06:46:32,233 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 108, in main\n    old_forecasts = json.load(open(\'forecast_history.api.json\'))\n'
+06:46:32,233 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\__init__.py", line 293, in load\n    return loads(fp.read(),\n'
+06:46:32,233 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\__init__.py", line 346, in loads\n    return _default_decoder.decode(s)\n'
+06:46:32,234 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\decoder.py", line 337, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n'
+06:46:32,234 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\decoder.py", line 355, in raw_decode\n    raise JSONDecodeError("Expecting value", s, err.value) from None\n'
+06:46:53,587 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:46:53,805 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:46:53,976 root ERROR An uncaught exception occurred:
+06:46:53,976 root ERROR Type: <class 'TypeError'>
+06:46:53,976 root ERROR Value: unhashable type: 'dict'
+06:46:53,977 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+06:46:53,977 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 110, in main\n    json.dump(list(set(old_forecasts)), open(\'forecast_history.json\', \'w\'), indent=4)\n'
+06:54:46,661 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:54:47,107 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:55:19,873 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:55:20,140 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:56:06,795 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:56:07,1 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:57:05,822 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:57:06,16 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:57:13,174 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:57:13,413 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+07:04:25,623 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:04:25,835 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+07:08:39,924 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:08:40,183 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+07:13:43,894 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:13:44,493 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
