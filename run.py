@@ -33,6 +33,7 @@ sys.excepthook = custom_excepthook
 
 from collections import defaultdict
 import json
+from datetime import datetime
 
 import requests
 import win32com.client as win32
@@ -91,7 +92,7 @@ def main():
     }
 
     response = requests.post('https://www.cfa.vic.gov.au/api/cfa/location/view/', cookies=cookies, headers=headers, json=json_data)
-    print(json.dumps(response.json()['FireBansAndRatingsDistrictWrapper'], indent=4))
+    retrieved_at = datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
 
     new_forecasts = {}
 
@@ -101,7 +102,7 @@ def main():
     }
 
     new_forecasts = [
-        {'date': f['IssueDate'], 'issued_at': f['IssueAt'], 'status': STATUS_MAP['status'][f['Status']], 'rating': STATUS_MAP['rating'][f['DistrictRating']]}
+        {'date': f['IssueDate'], 'issued_at': f['IssueAt'], 'status': STATUS_MAP['status'][f['Status']], 'rating': STATUS_MAP['rating'][f['DistrictRating']], 'retrieved_at': retrieved_at}
         for f in response.json()['FireBansAndRatingsDistrictWrapper']
     ]
 

@@ -1277,3 +1277,652 @@
 07:08:40,183 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
 07:13:43,894 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
 07:13:44,493 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+07:24:46,683 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:24:47,522 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+07:34:25,558 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:34:25,852 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+07:38:39,861 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:38:40,112 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+07:43:44,31 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:43:44,262 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+07:54:46,692 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:54:47,81 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:04:25,549 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:04:25,756 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:08:39,793 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:08:40,70 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:13:44,134 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:13:44,400 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:24:46,704 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:24:47,8 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:34:25,629 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:34:25,862 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:38:39,814 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:38:40,604 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:43:43,963 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:43:44,286 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:54:46,682 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:54:47,92 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:04:25,638 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:04:25,864 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:08:39,867 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:08:40,191 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:13:43,986 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:13:44,568 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:24:46,675 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:24:47,71 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:34:25,568 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:34:25,804 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:38:39,795 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:38:40,76 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:43:44,30 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:43:44,598 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:54:46,667 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:54:47,139 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:04:25,644 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:04:25,929 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:08:39,867 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:08:40,186 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:16:35,815 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:16:45,519 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:21:03,376 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:21:03,415 root ERROR An uncaught exception occurred:
+10:21:03,415 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+10:21:03,415 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000221BF9DA830>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed'))
+10:21:03,422 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+10:21:03,423 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+10:21:03,423 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+10:21:03,423 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+10:21:03,423 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+10:21:03,423 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+10:21:03,423 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+10:24:46,616 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:24:47,106 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:34:25,590 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:34:25,614 root ERROR An uncaught exception occurred:
+10:34:25,614 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+10:34:25,614 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000298AD7DA830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+10:34:25,617 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+10:34:25,617 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+10:34:25,617 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+10:34:25,617 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+10:34:25,617 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+10:34:25,617 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+10:34:25,618 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+10:38:39,818 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:38:41,886 root ERROR An uncaught exception occurred:
+10:38:41,886 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+10:38:41,886 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000019148A1A830>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+10:38:41,894 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+10:38:41,895 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+10:38:41,895 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+10:38:41,895 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+10:38:41,895 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+10:38:41,895 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+10:38:41,895 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+10:43:43,981 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:43:43,994 root ERROR An uncaught exception occurred:
+10:43:43,994 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+10:43:43,994 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015D0763A830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+10:43:43,995 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+10:43:43,995 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+10:43:43,995 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+10:43:43,995 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+10:43:43,995 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+10:43:43,996 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+10:43:43,996 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+10:51:02,908 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:51:02,918 root ERROR An uncaught exception occurred:
+10:51:02,918 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+10:51:02,918 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000195700EA830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+10:51:02,924 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+10:51:02,924 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+10:51:02,924 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+10:51:02,924 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+10:51:02,925 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+10:51:02,925 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+10:51:02,925 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+10:54:46,679 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:54:46,688 root ERROR An uncaught exception occurred:
+10:54:46,688 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+10:54:46,688 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002B0A58FA830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+10:54:46,695 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+10:54:46,695 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+10:54:46,695 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+10:54:46,695 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+10:54:46,695 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+10:54:46,695 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+10:54:46,695 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+11:04:25,556 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:04:30,1 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:08:39,813 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:08:40,78 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:13:43,980 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:13:44,705 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:21:03,280 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:21:15,340 root ERROR An uncaught exception occurred:
+11:21:15,340 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+11:21:15,340 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001441D1FA830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+11:21:15,344 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+11:21:15,344 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+11:21:15,344 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+11:21:15,344 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+11:21:15,344 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+11:21:15,344 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+11:21:15,344 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+11:24:46,658 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:24:58,707 root ERROR An uncaught exception occurred:
+11:24:58,707 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+11:24:58,708 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000153927EA830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+11:24:58,711 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+11:24:58,711 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+11:24:58,711 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+11:24:58,711 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+11:24:58,711 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+11:24:58,712 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+11:24:58,712 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+11:34:25,892 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:34:37,989 root ERROR An uncaught exception occurred:
+11:34:37,989 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+11:34:37,989 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022BE2E6A830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+11:34:37,994 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+11:34:37,994 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+11:34:37,994 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+11:34:37,994 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+11:34:37,994 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+11:34:37,994 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+11:34:37,994 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+11:38:40,135 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:38:52,227 root ERROR An uncaught exception occurred:
+11:38:52,227 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+11:38:52,227 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CD1226A830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+11:38:52,229 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+11:38:52,229 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+11:38:52,229 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+11:38:52,229 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+11:38:52,229 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+11:38:52,230 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+11:38:52,230 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+11:43:44,57 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:43:44,84 root ERROR An uncaught exception occurred:
+11:43:44,84 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+11:43:44,84 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001EA9733A830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+11:43:44,88 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+11:43:44,88 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+11:43:44,88 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+11:43:44,88 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+11:43:44,88 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+11:43:44,88 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+11:43:44,89 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+11:51:02,903 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:51:03,367 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:54:46,558 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:54:47,116 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:04:25,615 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:04:26,170 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:08:39,866 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:08:40,322 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:13:43,963 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:13:44,728 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:21:02,958 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:21:03,922 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:24:46,642 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:24:47,436 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:34:25,686 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:34:26,457 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:38:39,430 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:38:39,733 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:43:43,818 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:43:44,219 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:51:02,997 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:51:03,461 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:54:46,637 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:54:46,938 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:04:25,612 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:04:25,920 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:08:39,862 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:08:40,193 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:13:44,86 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:13:44,519 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:21:03,36 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:21:06,645 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:24:46,636 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:24:47,16 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:34:25,624 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:34:26,107 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:38:39,745 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:38:40,706 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:43:44,32 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:43:44,516 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:51:03,6 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:51:03,705 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:54:46,638 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:54:47,71 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:04:25,590 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:04:26,0 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:08:39,892 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:08:40,280 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:13:44,23 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:13:44,530 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:21:02,907 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:21:03,209 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:24:46,715 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:24:47,368 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:34:25,547 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:34:25,819 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:38:39,901 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:38:40,438 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:43:43,975 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:43:44,825 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:51:02,981 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:51:03,438 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:54:46,795 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:54:47,198 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:04:25,613 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:04:25,967 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:08:39,955 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:08:41,475 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:13:44,63 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:13:48,264 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:21:03,178 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:21:03,621 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:24:46,660 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:24:46,926 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:34:25,744 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:34:26,269 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:38:39,808 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:38:40,251 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:43:44,229 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:43:44,671 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:51:02,956 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:51:03,298 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:54:46,661 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:54:47,84 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+16:04:25,554 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:04:25,813 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+16:08:39,762 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:08:41,196 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:13:43,995 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:13:44,544 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:21:02,912 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:21:03,312 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:24:46,650 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:24:46,989 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:34:25,569 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:34:26,138 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:38:39,805 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:38:40,451 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:43:43,974 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:43:44,434 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:51:02,887 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:51:04,568 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+16:54:46,640 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:54:47,306 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:04:25,574 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:04:27,926 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:08:39,774 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:08:40,341 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:13:44,40 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:13:45,550 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:21:03,40 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:21:03,686 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:24:46,725 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:24:47,47 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:34:25,613 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:34:26,400 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:38:39,761 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:38:40,171 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:43:44,54 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:43:44,371 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:51:02,929 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:51:03,545 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+17:54:46,845 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:54:47,346 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:04:25,541 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:04:25,986 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:08:39,812 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:08:40,189 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:13:44,67 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:13:44,343 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:21:02,849 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:21:03,398 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:24:46,661 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:24:47,31 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:34:25,606 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:34:26,214 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:42:31,85 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:42:31,448 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:43:44,5 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:43:44,358 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:51:02,877 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:51:03,174 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+18:54:46,636 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:54:46,930 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+19:04:25,626 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:04:25,940 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+19:08:39,818 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:08:40,36 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+19:13:43,980 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:13:44,280 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+19:21:02,886 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:21:03,38 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+19:24:46,618 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:24:46,853 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+00:20:49,43 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+00:20:49,420 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+00:21:02,908 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+00:21:03,262 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+00:24:46,628 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+00:24:46,831 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:53:21,452 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:53:22,149 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:46:16,971 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:46:17,293 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:53:21,290 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:53:21,501 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:23:21,715 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:23:22,71 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:53:21,199 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:53:21,515 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:23:21,917 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:23:22,398 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:53:21,538 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:53:21,912 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+18:50:10,760 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:50:11,502 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+20:50:10,736 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+20:50:11,76 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+22:50:10,609 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+22:50:10,951 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29845
+00:50:10,627 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+00:50:10,953 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+02:50:10,675 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+02:50:11,32 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+04:50:10,710 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+04:50:10,995 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+05:26:40,84 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+05:26:41,457 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+06:50:10,734 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:50:11,313 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+08:58:23,966 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:58:24,307 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+09:26:40,203 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:26:40,574 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:50:11,23 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:50:12,179 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+10:58:24,367 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:58:24,640 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+11:26:40,220 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:26:40,904 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:50:10,759 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:50:27,431 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+12:58:24,390 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:58:25,271 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+13:26:40,449 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:26:42,333 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:50:10,856 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:50:11,377 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+14:58:24,324 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:58:24,594 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+15:26:40,148 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:26:40,425 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29837
+16:50:11,842 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:50:12,458 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29841
+16:58:24,433 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:58:24,765 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29841
+17:26:40,564 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+17:26:40,883 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29841
+09:19:50,692 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:19:51,482 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+09:26:40,435 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:26:40,791 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+10:50:10,979 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:50:11,193 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+10:58:25,158 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:58:25,523 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+11:19:51,16 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:19:51,459 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+11:26:40,798 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:26:40,979 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+12:50:10,969 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:50:11,198 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+12:58:24,528 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:58:26,401 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+13:19:50,525 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:19:50,837 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+13:26:40,305 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:26:40,462 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+14:50:11,551 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:50:11,932 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+14:58:24,466 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:58:24,643 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+15:19:50,720 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:19:51,81 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+15:26:40,207 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:26:41,99 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29834
+18:55:34,438 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:55:35,763 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+18:58:24,215 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+18:58:24,381 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+19:22:58,992 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+19:22:59,647 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+01:23:13,663 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+03:23:10,723 root ERROR An uncaught exception occurred:
+03:23:10,724 root ERROR Type: <class 'requests.exceptions.SSLError'>
+03:23:10,724 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)')))
+03:23:10,790 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+03:23:10,790 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+03:23:10,790 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+03:23:10,791 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+03:23:10,791 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+03:23:10,791 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+03:23:10,791 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 517, in send\n    raise SSLError(e, request=request)\n'
+05:51:45,767 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+05:51:46,166 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+05:51:52,197 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+05:51:52,471 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+06:50:10,745 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:50:11,413 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+06:58:24,382 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:58:24,698 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+07:19:50,593 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:19:50,887 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+07:26:40,187 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:26:40,351 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+10:36:22,884 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:36:23,544 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+10:36:43,782 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:36:43,921 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+10:50:10,726 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:50:14,348 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+10:58:24,398 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:58:24,633 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+11:19:50,557 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:19:50,813 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+11:26:40,298 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:26:40,404 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+12:21:47,970 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:21:47,988 root ERROR An uncaught exception occurred:
+12:21:47,988 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+12:21:47,988 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002804264A830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+12:21:47,993 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+12:21:47,994 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+12:21:47,994 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+12:21:47,994 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+12:21:47,994 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+12:21:47,994 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+12:21:47,994 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+12:22:06,677 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:22:07,848 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+12:36:02,644 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:36:03,257 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+12:36:41,957 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:36:42,82 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+12:50:10,726 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:50:11,234 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+12:58:24,307 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:58:24,508 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+13:19:50,716 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:19:52,247 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+13:26:40,199 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:26:40,810 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+13:51:51,634 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:51:51,869 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+13:57:19,277 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:57:19,402 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+14:22:02,85 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:22:02,687 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+14:36:02,226 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:36:02,596 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+14:36:41,938 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:36:42,101 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+14:50:11,50 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:50:11,308 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+14:58:24,831 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:58:25,303 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+15:19:50,748 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:19:51,253 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+15:26:40,341 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:26:40,886 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+15:51:51,306 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:51:52,233 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+15:57:19,297 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:57:19,436 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29835
+05:32:17,235 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+05:32:18,897 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+06:14:59,525 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:14:59,907 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+06:15:56,65 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:15:56,759 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+06:22:01,875 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:22:02,124 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+06:36:02,223 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:36:02,408 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+06:36:41,964 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:36:42,91 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+06:50:10,745 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:50:11,7 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+06:58:24,402 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+06:58:25,202 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+09:36:44,826 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:36:44,842 root ERROR An uncaught exception occurred:
+09:36:44,842 root ERROR Type: <class 'requests.exceptions.ConnectionError'>
+09:36:44,842 root ERROR Value: HTTPSConnectionPool(host='www.cfa.vic.gov.au', port=443): Max retries exceeded with url: /api/cfa/location/view/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002501782A830>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+09:36:44,846 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 121, in <module>\n    main()\n'
+09:36:44,846 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 93, in main\n    response = requests.post(\'https://www.cfa.vic.gov.au/api/cfa/location/view/\', cookies=cookies, headers=headers, json=json_data)\n'
+09:36:44,847 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 115, in post\n    return request("post", url, data=data, json=json, **kwargs)\n'
+09:36:44,847 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\api.py", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n'
+09:36:44,847 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n'
+09:36:44,847 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\sessions.py", line 703, in send\n    r = adapter.send(request, **kwargs)\n'
+09:36:44,847 root ERROR '  File "C:\\Users\\holmest1\\AppData\\Roaming\\Python\\Python310\\site-packages\\requests\\adapters.py", line 519, in send\n    raise ConnectionError(e, request=request)\n'
+09:37:49,970 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:37:50,596 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+09:51:51,238 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:51:51,466 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+09:57:19,128 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+09:57:19,389 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+10:15:54,689 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:15:55,360 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+10:22:01,937 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:22:02,231 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+10:36:02,51 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:36:02,560 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+10:36:42,10 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:36:43,198 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+10:50:10,816 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:50:10,960 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+10:58:24,377 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+10:58:24,894 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+11:19:50,506 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:19:51,120 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+11:26:40,505 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:26:40,862 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+11:31:50,594 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:31:50,714 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+11:32:08,56 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:32:09,141 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+11:36:44,30 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:36:44,276 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+11:37:49,449 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:37:49,653 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+11:51:51,406 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:51:51,678 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+11:57:19,150 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+11:57:19,265 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+12:48:06,984 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:48:07,808 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+12:50:10,699 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:50:10,991 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+12:58:24,318 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+12:58:24,437 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+13:19:50,567 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:19:52,948 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+13:26:40,160 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:26:40,299 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+13:31:50,528 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:31:50,707 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+13:32:07,923 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:32:08,15 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+13:36:44,36 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:36:44,181 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+13:37:49,435 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:37:49,656 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+13:51:51,158 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:51:51,492 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+13:57:19,525 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+13:57:19,628 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+14:15:54,785 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:15:55,27 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+14:22:01,908 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:22:02,163 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+14:36:02,168 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:36:02,484 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+14:36:41,980 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:36:42,517 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+14:47:59,145 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:47:59,540 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+14:50:10,724 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:50:10,950 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+14:58:24,576 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+14:58:24,773 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+15:19:51,773 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:19:52,186 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+15:26:40,225 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:26:40,324 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+15:31:50,538 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:31:50,865 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+15:32:07,939 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:32:08,32 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+15:36:44,115 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:36:44,278 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+15:37:49,473 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:37:49,692 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+15:51:51,248 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:51:51,507 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+15:57:19,250 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+15:57:19,455 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30111
+16:15:54,761 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:15:55,472 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30116
+16:22:01,921 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:22:02,263 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30116
+16:36:02,185 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:36:02,505 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30116
+16:36:41,930 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:36:42,388 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30116
+16:47:59,214 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:47:59,497 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30116
+16:50:10,658 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:50:10,762 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30116
+16:58:24,372 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+16:58:24,544 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 30116
+07:16:39,891 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:16:40,294 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+07:16:40,294 root ERROR An uncaught exception occurred:
+07:16:40,294 root ERROR Type: <class 'AttributeError'>
+07:16:40,294 root ERROR Value: module 'datetime' has no attribute 'now'
+07:16:40,300 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 123, in <module>\n    main()\n'
+07:16:40,300 root ERROR '  File "c:\\Code\\vic_fire_danger\\run.py", line 95, in main\n    retrieved_at = datetime.now().strftime(\'%Y-%m-%dT%H:%M:%S\')\n'
+07:17:01,452 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:17:01,572 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+07:17:29,665 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+07:17:29,787 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
