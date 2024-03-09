@@ -33,7 +33,7 @@ sys.excepthook = custom_excepthook
 
 from collections import defaultdict
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
 import requests
 import win32com.client as win32
@@ -110,13 +110,17 @@ def main():
     old_forecasts.extend(new_forecasts)
     json.dump([dict(d) for d in set(frozenset(f.items()) for f in old_forecasts)], open('forecast_history.json', 'w'), indent=4)
 
-    # if content:
-    #     outlook = win32.Dispatch('outlook.application')
-    #     mail = outlook.CreateItem(0)
-    #     mail.To = 'tim.holmes@gww.com.au'
-    #     mail.Subject = f'Fire Danger Alert ({content['date']})'
-    #     mail.HTMLBody = content['body']
-    #     mail.Send()
+    tomorrow_forecasts = [f for f in new_forecasts if f['date'].startswith((datetime.now() + timedelta(days=1)).strftime('%Y-%m-%d'))]
+    tomorrow_forecast = max(tomorrow_forecasts, key=lambda f: f['issued_at'])
+    tomorrow_tfb = tomorrow_forecast['status'] == 1
+
+    if tomorrow_tfb:
+        outlook = win32.Dispatch('outlook.application')
+        mail = outlook.CreateItem(0)
+        mail.To = 'tim.holmes@gww.com.au'
+        mail.Subject = f'Total Fire Ban Tomorrow: {(datetime.now() + timedelta(days=1)).strftime("%Y-%m-%d")}'
+        mail.HTMLBody = '<h2>Fire Ban Tomorrow</h2>'
+        mail.Send()
 
 if __name__ == '__main__':
     main()

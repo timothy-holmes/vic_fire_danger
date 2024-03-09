@@ -1926,3 +1926,7 @@
 07:17:01,572 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
 07:17:29,665 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
 07:17:29,787 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+08:25:00,850 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:25:01,206 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
+08:25:16,824 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.cfa.vic.gov.au:443
+08:25:17,594 urllib3.connectionpool DEBUG https://www.cfa.vic.gov.au:443 "POST /api/cfa/location/view/ HTTP/1.1" 200 29838
